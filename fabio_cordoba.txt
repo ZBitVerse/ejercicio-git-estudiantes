@@ -1,0 +1,5 @@
+Ingeniero de Sistemas y Desarrollador de Software, egresado de la Universidad de Córdoba, con sede en Montería (Colombia).
+Cuento con experiencia en el desarrollo de aplicaciones web utilizando tecnologías como Django y Laravel en el backend, y Angular y React en el frontend.
+
+Trabajo con bases de datos relacionales como MySQL y PostgreSQL, enfocándome en la creación de soluciones eficientes, escalables y orientadas a las necesidades del negocio.
+Me caracterizo por mi capacidad de aprendizaje continuo, pensamiento analítico y compromiso con la calidad del software.
